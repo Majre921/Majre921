@@ -1,4 +1,4 @@
-### I have no idea what I am doing
+###I have no idea what I am doing
 -I like military equipment, low level computers and jumping from windows
 
 ###Stuff I know
