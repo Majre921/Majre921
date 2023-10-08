@@ -1,5 +1,5 @@
 ### I have no idea what I am doing
--I like military equipment, low level computers and jumping from windows
+- I like military equipment, low level computing and jumping from windows
 
 ### Stuff I know
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="21px" height="21px" style="max-width: 100%;"></a>
